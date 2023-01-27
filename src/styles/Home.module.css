@@ -1,0 +1,70 @@
+.home h1 {
+    text-align: center;
+    background-color: #0cbccc;
+    color: white;
+    height: 50px;
+    text-transform: uppercase;
+}
+
+.maislidos {
+    text-align: center;
+    margin: 0 0 50px;
+}
+
+.maislidos img {
+    width: auto;
+    height: 300px;
+    border-radius: 10px;
+    transition: .5s;
+}
+
+.maislidos img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    border-radius: 5px;
+    box-shadow: 5px 10px;
+}
+
+.maislidosimg {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 5rem;
+}
+
+.maislidos button {
+    border: none;
+    width: 1350px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    background-color: #0cbccc4d;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.maislidos button:hover {
+    background-color: #0cbccc;
+}
+
+.catalogolojas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 0 15px;
+}
+
+.maps {
+    margin: 15px;
+    width: 500px;
+    text-align: center;
+    background-color: #0cbccc4d;
+    border-radius: 0 0 10px 10px;
+    transition: 0.5s;
+}
+
+.nomeloja {
+    font-size: 20px;
+}

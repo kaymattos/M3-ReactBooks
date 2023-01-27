@@ -1,0 +1,62 @@
+.sobrenos {
+  text-align: center;
+  font-size: 30px;
+  padding: 15px 100px 0 100px;
+  text-align: justify;
+}
+
+.sobrenos ul {
+  list-style: none;
+}
+
+.sobrenos h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.sobrenos1 p {
+  padding: 15px 300px 15px 300px;
+  font-size: 40px;
+}
+
+
+.gridCards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  text-align: center;
+  font-size: x-large;
+  background-color: #0cbccc4d;
+  border-radius: 10px 0 0 10px;
+  height: 100px;
+  width: 100px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  height: 30rem;
+  width: 18rem;
+  margin: 50px;
+  transition: 0.5s;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.card p {
+  padding: 10px;
+}
+
+.card-img-top {
+  height: 20rem;
+  width: 100%;
+}

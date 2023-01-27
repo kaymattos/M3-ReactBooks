@@ -1,0 +1,17 @@
+footer {
+  color: white;
+  background-color: #0cbccc;
+  width: 100%;
+  bottom: 0;
+  display: grid;
+  grid-template-areas:
+    "atent loc contat"
+    "links redeSocial uni"
+    "logo logo logo";
+  align-items: center;
+  justify-content: space-around;
+}
+
+.contatos p {
+  color: black;
+}

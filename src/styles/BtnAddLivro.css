@@ -1,0 +1,23 @@
+#btnaddlivro {
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+#btnaddlivro button {
+  border: none;
+  background-color: lime;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 0 0 10px 10px;
+  width: 300px;
+  height: 30px;
+  transition: 0.5s;
+  padding: 2px;
+  margin: 0 0 10px;
+}
+
+#btnaddlivro button:hover {
+  color: white;
+  background-color: green;
+}

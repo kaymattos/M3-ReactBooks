@@ -1,0 +1,46 @@
+.novaconta {
+    margin: 142px 0 160px;
+}
+
+.novaconta form {
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+    padding: 50px;
+    background-color: #0cbccc4d;
+    border-radius: 10px;
+}
+
+.novaconta input {
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    padding: 12px 20px 12px 10px;
+}
+
+.novaconta .titulo {
+    text-transform: uppercase;
+}
+
+.novaconta .subtitulo {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.novaconta label {
+    font-size: 20px;
+}
+
+.btncriar {
+    margin: 25px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}

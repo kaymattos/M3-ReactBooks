@@ -1,0 +1,49 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 5rem;
+  background-color: #0cbccc;
+  height: 125px;
+  width: 100%;
+}
+
+.reactlibmarca {
+  padding: 30px;
+  margin-top: 10px;
+}
+
+.navbaropcoes ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.navbaropcoes li {
+  padding: 0 20px;
+  font-size: 25px;
+  color: white;
+}
+
+/* nav button {
+    padding: 0 0 1px;
+    height: 30px;
+    width: 30px;
+    color: #0cbccc;
+    background-color: white;
+    border: none;
+    transition: 1s;
+  }
+
+  nav button:hover{
+    background-color: blue;
+  }
+
+   nav input{
+    font-weight: bold;
+    height: 30px;
+    width: 180px;
+    padding: 10px;
+    border: none;
+  } */
